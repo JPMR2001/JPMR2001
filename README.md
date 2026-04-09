@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is [Your Name], I'm from Chile and I'm an IT Infrastructure and Technological Platforms Engineer.
+My name is JP, I'm from Chile and I'm an IT Infrastructure and Technological Platforms Engineer.
 
 * 🤝 I'm currently focused on Cloud Computing, IaC, and containerization
 * ⚡ I like to be learning new things and face new challenges
